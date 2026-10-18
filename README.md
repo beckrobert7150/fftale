@@ -1,0 +1,2 @@
+# fftale
+Daily digest notes
